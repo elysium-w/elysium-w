@@ -2,7 +2,7 @@
 
 🚀 I'm currently on a mission to build awesome software solutions that make a positive impact on people's lives.
 
-💻 I specialize in Back-end Development and interested in game development, and I love working with Java & Golang ,also ,I have great intresting in OpenSource.
+💻 I specialize in Back-end Development and interested in OpenSource, and I love working with Java & Golang.
 
 🌱 Right now, I'm learning Big Data , and I'm always eager to expand my skills and knowledge.
 
