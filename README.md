@@ -2,11 +2,11 @@
 
 🚀 I'm currently on a mission to build awesome software solutions that make a positive impact on people's lives.
 
-💻 I specialize in Back-end Development and interested in game development, and I love working with Java & Golang.
+💻 I specialize in Back-end Development and interested in game development, and I love working with Java & Golang ,also ,I have great intresting in OpenSource.
 
 🌱 Right now, I'm learning Big Data , and I'm always eager to expand my skills and knowledge.
 
-📫 You can reach me via 1024kristenwang@gmail.com or  wya10241110@163.com.
+📫 You can reach me via 1024kristenwang@gmail.com or wya10241110@163.com.
 
 
 [![Elysium's GitHub stats](https://github-readme-stats.vercel.app/api?username=elysium-w)](https://github.com/anuraghazra/github-readme-stats)
