@@ -4,7 +4,7 @@
 
 💻 I specialize in Back-end Development and interested in OpenSource, and I love working with Java & Golang.
 
-🌱 Right now, I'm learning Big Data , and I'm always eager to expand my skills and knowledge.
+🌱 Right now, I'm participate in the contribution of volcano , and I'm always eager to expand my skills and knowledge.
 
 📫 You can reach me via 1024kristenwang@gmail.com or wya10241110@163.com.
 
